@@ -1,1 +1,1 @@
-# Py-Snake
+Змейка на Python
